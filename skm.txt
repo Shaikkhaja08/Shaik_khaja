@@ -1,0 +1,5 @@
+C is one of the foundational programming languages used in the development of compilers, operating systems, and embedded systems where speed and efficiency matter.
+
+It is considered the best language to start because it provides a strong understanding of fundamental coding concepts like data types, variables, loops, and functions.
+
+With a competitive base salary, there is a significant demand for C developers in high-stake fields where high performance is essential.
